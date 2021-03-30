@@ -3,7 +3,6 @@ YouTube video downloader with Tkinter GUI
 '''
 
 # Importing modules
-import os
 from pytube import *
 from tkinter import *
 from tkinter.filedialog import *
