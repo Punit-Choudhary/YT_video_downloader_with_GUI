@@ -7,3 +7,5 @@
 * `git clone https://github.com/Punit-Choudhary/YT_video_downloader_with_GUI.git` -- clone repo at your end.
 * `python main.py` -- Run `main.py` to run program, or directly run by clicking on file.
 
+### ScreenShot
+![](Screenshot.png)
